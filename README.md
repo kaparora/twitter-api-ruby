@@ -16,7 +16,9 @@ Make sure you have bundler installed.
 >gem install bundler
 
 Run 
+
 >bundle install 
+
 to generate the Gemfile.lock and install all dependencies
 
 To run the application, execute:
